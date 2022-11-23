@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @halitozken
+- 👋 Hi, I’m Halit Ozken
 - 👀 I’m interested in JavaScript and Node.js
 - 🌱 I’m currently learning React and Redux
