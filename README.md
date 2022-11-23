@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @halitozken
+- 👀 I’m interested in JavaScript and Node.js
+- 🌱 I’m currently learning React and Redux
