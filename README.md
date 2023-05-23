@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Halit.</h1>
+
 - 🌱 I’m currently learning **ASP.NET MVC, .NET Core, MsSQL, Angular, React Native, Redux, Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/halitozken](https://github.com/halitozken)
