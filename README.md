@@ -2,9 +2,9 @@
 
 - 🌱 I’m currently learning **ASP.NET MVC, .NET Core, MsSQL, Angular, React Native, Redux, Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/halitozken](https://github.com/halitozken)
-
 - 💬 Ask me about **React, Node.js, Express.js, MongoDB, MySQL**
+
+- 👨‍💻 All of my projects are available at [https://github.com/halitozken](https://github.com/halitozken)
 
 - 📫 How to reach me **halitozken@gmail.com**
 
