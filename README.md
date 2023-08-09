@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Halit.</h1>
 
-- 🌱 I’m currently learning **ASP.NET MVC, .NET Core, MsSQL, Angular, React Native, Redux, Tailwind CSS**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React, Node.js, Express.js, MongoDB, MySQL**
+- 💬 Ask me about **React, Node.js, Express.js, MongoDB, ASP.NET Web Api, SQLServer, MySQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/halitozken](https://github.com/halitozken)
 
