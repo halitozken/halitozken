@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React, Node.js, Express.js, MongoDB, ASP.NET Web Api, SQLServer, MySQL**
+- 💬 Ask me about **React, Node.js, Express.js, Nest.js, MongoDB, ASP.NET Web Api, SQLServer, MySQL, PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/halitozken](https://github.com/halitozken)
 
