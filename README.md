@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Halit.</h1>
 
-- 🌱 I’m currently learning **Unity and React Native**
+- 🌱 I’m currently learning **Laravel and React Native**
 
 - 💬 Ask me about **React.js, Next.js, Node.js, Express.js, Nest.js, MongoDB, ASP.NET Web API, SQLServer, MySQL, PostgreSQL**
 
