@@ -4,8 +4,6 @@
 
 - 💬 Ask me about **React.js, Next.js, Node.js, Express.js, Nest.js, MongoDB, ASP.NET Web API, SQLServer, MySQL, PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/halitozken](https://github.com/halitozken)
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/halitozken/](https://www.linkedin.com/in/halitozken/)
 
 - 📫 How to reach me **halitozken@gmail.com**
