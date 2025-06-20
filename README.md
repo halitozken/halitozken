@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Laravel and React Native**
 
-- 💬 Ask me about **React.js, Next.js, Node.js, Express.js, Nest.js, MongoDB, ASP.NET Web API, SQLServer, MySQL, PostgreSQL**
+- 💬 Ask me about **React.js, Next.js, Node.js, Express.js, Nest.js, MongoDB, MySQL, PostgreSQL**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/halitozken/](https://www.linkedin.com/in/halitozken/)
 
@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=halitozken&show_icons=true&locale=en&layout=compact" alt="halitozken" /></p>
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=halitozken&" alt="halitozken" /></p>
